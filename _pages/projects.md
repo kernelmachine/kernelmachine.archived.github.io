@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: reading list
+permalink: /reading_list/
+description: A growing collection of content I've read, watched, or listened to.
 ---
 
 {% for project in site.projects %}
