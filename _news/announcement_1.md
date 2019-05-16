@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-04-12 15:59:00-0400
+date: 2019-05-13 15:59:00-0400
 inline: true
 ---
 
-Hello world!
+Our paper "Variational Pretraining for Semisupervised Text Classification" will appear in ACL 2019. Stay tuned for code and arxiv pre-print!
