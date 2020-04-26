@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I work on the [AllenNLP](http://allennlp.org) team, where we do research and engineering in natural language processing (NLP), a subfield of artificial intelligence concerned with models of human language. I'm currently excited about semi-supervised representation learning, crosslingual transfer, and domain adaptation.
+I work on the [AllenNLP](http://allennlp.org) team, where we do research and engineering in natural language processing (NLP), a subfield of artificial intelligence concerned with models of human language. I'm currently excited about a variety of problems, like efficiency, evaluation, and adapting models between distant domains. I will be joining the University of Washington in Fall 2020 as a PhD student in the CSE department.
 
 I completed my masters in NLP at the University of Washington, advised by [Noah Smith](https://homes.cs.washington.edu/~nasmith/). Before graduate school, I was a data scientist and software engineer at several companies in Seattle and Boston. Before that, I did research in computational neuroscience at the University of Chicago, working with [Jason MacLean](http://www.macleanlab.com/) and [Nicholas Hatsopoulos](https://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/index.html).
 
