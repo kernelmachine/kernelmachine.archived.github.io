@@ -6,7 +6,7 @@ description: Pre-doctoral Young Investigator at the Allen Institute for AI
 
 profile:  
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_1.jpg
   address:
 
 news: true
