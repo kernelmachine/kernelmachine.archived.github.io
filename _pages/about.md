@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Suchin</strong> Gururangan
-description: PhD Student in Computer Science at the University of Washington
+description: sg01 at cs dot washington dot edu
 
 profile:  
   align: right
