@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Suchin</strong> Gururangan
-description: sg01 at cs dot washington dot edu
+description: sg01 at cs dot washington dot edu, [@ssgrn](https://twitter.com/ssgrn)
 
 profile:  
   align: right
