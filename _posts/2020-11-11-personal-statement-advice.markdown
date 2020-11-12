@@ -7,8 +7,6 @@ description: Personal research statement advice
 
 I'm writing this post because I was inspired by [Nelson Liu's](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/) service in making his personal research statement public. The information needed to get into the academic ivory tower is not that accessible, and it's awesome that there are people out there trying to change this. This is my attempt to follow in their footsteps! Hope this is useful to anyone applying to PhD programs in the USA.
 
-## Personal Statement Advice
-
 My personal research statement can be read [here](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view?usp=sharing).
 
 **Disclaimer**: I do NLP research and only applied to research programs in NLP. However, in a previous life, I applied to Neuroscience PhD programs, and I can attest that these pieces of advice would have really helped my application back then. So I *think* they are pretty generalizable.
